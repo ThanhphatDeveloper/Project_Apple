@@ -16,7 +16,7 @@ namespace Project_Apple
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmBanhang());
+            Application.Run(new frmQuanLy());
         }
     }
 }
